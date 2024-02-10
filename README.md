@@ -14,3 +14,4 @@ Collections of Jupyter notebooks related to Python and algorithmic trading from 
   - https://github.com/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/Weather-RNN.ipynb
 - LSTM:
   - https://github.com/mapr-demos/predictive-maintenance/blob/master/notebooks/jupyter/LSTM%20For%20Predictive%20Maintenance-ian01.ipynb
+  - https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
